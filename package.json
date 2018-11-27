@@ -1,0 +1,13 @@
+{
+  "name": "react-router-v3-shim",
+  "version": "1",
+  "description": "a react-router v3 shim to allow for use with react-router v4",
+  "main": "index.js",
+  "repository": "https://github.com/DaNish808/react-router-v3-shim.git",
+  "author": "David Nishikawa <david@squishymedia.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "react-router": "^3.2.1"
+  }
+}
