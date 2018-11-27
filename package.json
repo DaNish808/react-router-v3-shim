@@ -1,6 +1,6 @@
 {
   "name": "react-router-v3-shim",
-  "version": "1",
+  "version": "1.0.0",
   "description": "a react-router v3 shim to allow for use with react-router v4",
   "main": "index.js",
   "repository": "https://github.com/DaNish808/react-router-v3-shim.git",
